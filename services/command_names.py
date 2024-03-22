@@ -43,7 +43,7 @@ class CommandNames:
         self.showwinrate_command: str = "winrate"
         self.help_command: str = "help"
 
-        self.admins: List[str] = [".shrekdeck"]
+        self.admins: List[str] = [".testadmin"]
 
     def get_second_command(self) -> str:
         """
