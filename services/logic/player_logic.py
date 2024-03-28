@@ -96,6 +96,6 @@ displays the ranks of every player in the competition
 Example: !pingpong winrate .shrekdeck
 displays the winrate from a given discord name
 
-Github code for this code: https://github.com/FreugdFred/discord-bot-pingpong-floor-11
+Github code for this code: https://github.com/FreugdFred/PingPong-Floor-11-Discord-Bot
 """
     return help_text
